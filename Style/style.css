@@ -204,7 +204,6 @@ font-size: 36px;
 }
 
 .shops .misamartebi{
-    display: flex;
     flex-wrap: wrap;
 }
 
@@ -268,8 +267,6 @@ font-size: 36px;
 .onlineshop .categories{
     width: 660px;
     height: 460px;
-    display: flex;
-    justify-content: space-between;
     flex-wrap: wrap;
     margin-left: 740px;
     margin-top: 80px;

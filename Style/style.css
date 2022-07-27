@@ -192,7 +192,6 @@ font-size: 36px;
 }
 
 .shops .boxes{
-    width: 440px;
     margin-top: 80px;
     margin-left: 740px;
 }
@@ -205,6 +204,8 @@ font-size: 36px;
 
 .shops .misamartebi{
     flex-wrap: wrap;
+    width: 420px;
+    height: 440px;
 }
 
 .shops .address{
@@ -212,8 +213,6 @@ font-size: 36px;
     height: 200px;
     background-image: url(../IMG/address.png);
     background-size: 100%;
-    margin-right: 20px;
-    margin-bottom: 20px;
 }
 
 .shops .address:hover{
